@@ -5,6 +5,6 @@
         "src": "public",
         "use": "@vercel/php"
       }
-    ]
+    ],
   }
   
