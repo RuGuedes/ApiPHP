@@ -2,6 +2,7 @@
     "private": true,
     "type": "module",
     "scripts": {
+        "start": "php index.php",
         "dev": "vite",
         "build": "vite build"
     },
